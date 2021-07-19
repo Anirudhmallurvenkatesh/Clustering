@@ -1,2 +1,2 @@
 # Clustering
-Clustering on Crime data and EastWest Arilines datasets 
+Clustering on Crime data and EastWest Airlines datasets 
